@@ -137,7 +137,7 @@ export default function Projects() {
       <div className="w-full md:w-[30%]">
         <div className="sticky top-0 bg-gradient-to-b from-[#4f57c1] to-[#3642a6] p-6 flex flex-col items-center justify-center h-auto md:h-[100vh] text-center">
           <img
-            src="/portfolio/projects.PNG"
+            src="/portfolio/projects.png"
             alt="Projects Illustration"
             className="w-56 h-56 object-contain animate-pulse drop-shadow-lg mb-6"
           />

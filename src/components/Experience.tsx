@@ -116,7 +116,7 @@ export default function Experience() {
       <div className="w-full md:w-[30%] order-1 md:order-2 my-5 transform transition duration-300 hover:-translate-y-2 hover:shadow-2xl">
         <div className="sticky top-0 bg-[#ffd23e] p-8 flex flex-col items-center justify-center h-auto md:h-screen shadow-lg rounded-bl-2xl md:rounded-bl-none md:rounded-l-2xl">
           <img
-            src="/portfolio/exp.PNG"
+            src="/portfolio/exp.png"
             alt="Experience Illustration"
             className="w-72 h-48 object-contain mb-6 drop-shadow-xl"
           />
